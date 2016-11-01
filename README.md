@@ -30,8 +30,8 @@ qtcreator ../TP7_VolumeRendering
 -----
 Generate output using :
  ```
- ./VolumeRendering
- python ./generate_animation.py 
+ ./VolumeRendering && \
+ python ./generate_animation.py && \
  bash script_plot.sh
  ```
  <img src="./Screenshots/LowDefinition_UP.gif" alt="LD_Up.gif" width="100" height="100" />
